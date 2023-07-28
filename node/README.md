@@ -1,4 +1,4 @@
-# Node.js and Express web applicatio
+# Node.js and Express web application
 # Overview <br>
  This repository contains the solution for the task of building a basic web application using Node.js and the Express framework. The application fetches data from a public API and displays it on a web page. The purpose of this project is to demonstrate the implementation of a server-side application with data fetching and rendering capabilities.
 # Problem Description <br>
